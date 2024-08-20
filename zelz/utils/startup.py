@@ -122,6 +122,7 @@ zchannel = {
     "@Koyeb_Errors",
     "@ZThon_7",
     "@A_A_9_s",
+    "@moslm_1",
 }
 heroku_api = "https://api.heroku.com"
 if Config.HEROKU_APP_NAME is not None and Config.HEROKU_API_KEY is not None:
